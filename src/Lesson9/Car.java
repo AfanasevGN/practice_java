@@ -5,10 +5,10 @@ public class Car {
 
     String color;
     String engine;
-    int a = 10;
-    static int count;
+    public static int b = 10;
+    public static int count;
 
-    Car(String color, String engine) {
+    public Car(String color, String engine) {
         count++;
         this.color = color;
         this.engine = engine;
