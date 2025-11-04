@@ -36,8 +36,5 @@ public class Test10 {
 
     int maximum = (a>b) ? (a) : (b);
     System.out.println(maximum);
-
-
-
   }
 }
