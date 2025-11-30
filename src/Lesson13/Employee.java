@@ -4,7 +4,7 @@ public class Employee {
   public static void main(String[] args) {
     int dayOfWeek = 3;
 
-    switch (dayOfWeek * 3) {
+    switch (dayOfWeek) {
       case 1:
       case -22:
       case 3:
