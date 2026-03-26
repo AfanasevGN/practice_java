@@ -2,7 +2,7 @@ package Lesson21;
 
 public class Test7 {
   int a = 5;
-  int t, h=5, k;
+  int t, h = 5, k;
 
 
 
